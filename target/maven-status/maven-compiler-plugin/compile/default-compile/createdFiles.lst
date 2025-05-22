@@ -1,0 +1,5 @@
+com\example\springbootthymeleafapp\cliente\Cliente.class
+com\example\springbootthymeleafapp\SpringbootThymeleafAppApplication.class
+com\example\springbootthymeleafapp\controller\HomeController.class
+com\example\springbootthymeleafapp\cliente\ClienteRepository.class
+com\example\springbootthymeleafapp\cliente\ClienteRestController.class
